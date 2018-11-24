@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/macbook/4-object-oriented-sets-zeineb12/target/scala-0.9/progfun1-objsets_0.9-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	objsets/TweetSetInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/4-object-oriented-sets-zeineb12/src/main/scala/objsets/TweetSetInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	objsets/TweetData.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/4-object-oriented-sets-zeineb12/src/main/scala/objsets/TweetData.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	objsets/TweetSet.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/4-object-oriented-sets-zeineb12/src/main/scala/objsets/TweetSet.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/4-object-oriented-sets-zeineb12/src/main/scala/common/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	objsets/TweetReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/macbook/4-object-oriented-sets-zeineb12/src/main/scala/objsets/TweetReader.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
